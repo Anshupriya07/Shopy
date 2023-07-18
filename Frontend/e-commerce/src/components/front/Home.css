@@ -1,0 +1,35 @@
+.nav{
+    background-color: rgb(46, 42, 42);
+    height: 30px;
+    padding: 7px 7px 7px 7px;
+    text-align: left;
+}
+.About{
+    margin: 25px 25px 25px 25px;
+    padding : 25px 25px 25px 25px;
+    color: white;
+}
+.login{
+    margin-left: 250px;
+    padding : 25px 25px 25px 25px;
+}
+.signupcss{
+    padding : 25px 25px 25px 25px;
+}
+.linktext{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: white;
+}
+.slideimage{
+    height: 70%;
+    width:100%;
+}
+.toppicks{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
+.toppicks2{
+    background-color: rgb(219, 214, 214);
+}

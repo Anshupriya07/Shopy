@@ -1,0 +1,49 @@
+.product_1{
+    width : 30%;
+    float : left;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid rgb(174, 174, 180);
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.product_1:hover{
+    transform: scale(1.05);
+    background-color: rgb(234, 228, 228);
+
+}
+.product_buynow:hover{
+    color: black;
+    background-color: rgb(96, 209, 96);
+    color: whitesmoke;
+}
+.product_image1 img{
+    width : 100%;
+    height :100%;
+    padding-top: 5px ;
+
+}
+.product_price{
+    text-align: center;
+    font-weight: bolder;
+}
+.product_name{
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+}
+.product_buynow{
+    float: right;
+    padding: 5px 5px 5px 5px;
+    margin-bottom: 5px;
+    text-align: right;
+    border: 2px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.H1{
+    text-align: center;
+}
+.clearfix{
+    clear : both;
+}

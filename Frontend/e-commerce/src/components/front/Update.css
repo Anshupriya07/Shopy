@@ -1,0 +1,26 @@
+.update-form{
+    background-color: aliceblue;
+}
+input[type='text']{
+    width : 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border : 1px solid black;
+    border-radius : 5px;
+    padding: 5px 5px;
+    text-align: center;
+}
+.submit{
+    background-color: rgb(239, 59, 59);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+.Danger{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

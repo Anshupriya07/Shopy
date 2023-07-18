@@ -1,0 +1,32 @@
+.product-form{
+    width : 90%;
+    box-sizing : 10px;
+    background-color: aliceblue;
+    margin : 20px;
+    box-shadow:  10px 10px 10px grey;
+}
+.form-group{
+    width: 39%;
+    padding: 10px;
+    float:left;
+}
+.clearfix{
+    clear : both;
+}
+input[type='text']{
+    width : 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border : 1px solid black;
+    border-radius : 5px;
+    padding: 5px 5px;
+}
+.btn_add{
+    float: left;
+    padding: 2px 2px 2px 2px;
+    margin-bottom: 5px;
+    text-align: right;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgb(105, 105, 172);
+    color: white;
+}
